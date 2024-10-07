@@ -1,3 +1,8 @@
+create tenant with domain.
+php artisan tenant:create "domain" "db"  
+--
+
+
 <<<<<<< HEAD
 # souq
 =======
